@@ -51,6 +51,8 @@ Khi mở ứng dụng, màn hình đầu tiên hiển thị là Form Đăng nh�
 
 Người dùng nhập thông tin cần thiết:
 
+  Tên người chơi(Fullname)
+  
   Tên đăng nhập (Username)
   
   Mật khẩu (Password)
@@ -80,6 +82,8 @@ Người dùng nhập thông tin cần thiết:
   Nếu dữ liệu không hợp lệ → hiển thị thông báo lỗi cụ thể.
 
 3. Lưu ý khi sử dụng
+
+  Tên người chơi chỉ có các kí tự chữ không có số và kí tự đặc biệt
  
    Tên đăng nhập phải duy nhất, không trùng lặp với tài khoản đã có.
     
