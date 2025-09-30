@@ -47,7 +47,7 @@ Khi mở ứng dụng, màn hình đầu tiên hiển thị là Form Đăng nh�
   
   Nếu chưa có tài khoản, người dùng chọn Đăng ký để chuyển sang Form Đăng ký.
 
-3. Màn hình Đăng ký
+2. Màn hình Đăng ký
 
 Người dùng nhập thông tin cần thiết:
 
@@ -79,7 +79,7 @@ Người dùng nhập thông tin cần thiết:
   
   Nếu dữ liệu không hợp lệ → hiển thị thông báo lỗi cụ thể.
 
-5. Lưu ý khi sử dụng
+3. Lưu ý khi sử dụng
  
    Tên đăng nhập phải duy nhất, không trùng lặp với tài khoản đã có.
     
