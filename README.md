@@ -2,17 +2,27 @@
 Thiết kế ứng dụng quản lí người dùng với tính năng đăng nhập/ đăng kí
 
 **-Mô tả bài tập :**
+  
   -Ứng dụng quản lý người dùng với tính năng đăng nhập và đăng kí dựa trên Windows Forms C# và SQL Server
+   
     +Tạo ứng dụng Windows Forms (C#).
+    
     +Có giao diện đăng nhập và đăng ký người dùng.
+    
     +Lưu thông tin người dùng vào cơ sở dữ liệu SQL Server.
+    
     +Mã hóa mật khẩu để tăng tính bảo mật.
 
 **-Hướng dẫn cài đặt:**
+  
   1.Tạo project Windows Forms trong Visual Studio.
+  
   2.Tạo cơ sở dữ liệu và bảng Users trong SQL Server.
+  
   3.Viết code C# để xử lý đăng nhập, đăng ký.
+  
   4.Mã hóa mật khẩu trước khi lưu và khi kiểm tra đăng nhập.
+  
   5.Chạy thử và kiểm tra toàn bộ quy trình.
 
 **-Hướng dẫn sử dụng**
