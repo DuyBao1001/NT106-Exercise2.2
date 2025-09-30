@@ -28,38 +28,66 @@ Thiết kế ứng dụng quản lí người dùng với tính năng đ
 **-Hướng dẫn sử dụng**
 
 1. Màn hình Đăng nhập
-  Khi mở ứng dụng, màn hình đầu tiên hiển thị là Form Đăng nhập.
+
+Khi mở ứng dụng, màn hình đầu tiên hiển thị là Form Đăng nhập.
+  
   Người dùng nhập:
+  
   Tên đăng nhập (Username)
+  
   Mật khẩu (Password) (được ẩn ký tự bằng dấu *)
+  
   Bấm nút Đăng nhập:
+  
   Nếu tài khoản đúng → chuyển sang Màn hình chính.
+  
   Nếu sai → hiện thông báo lỗi.
+  
   Xác nhận không phải là người máy -> Nếu không bắt phải xác nhận
+  
   Nếu chưa có tài khoản, người dùng chọn Đăng ký để chuyển sang Form Đăng ký.
 
-2. Màn hình Đăng ký
-  Người dùng nhập thông tin cần thiết:
+3. Màn hình Đăng ký
+
+Người dùng nhập thông tin cần thiết:
+
   Tên đăng nhập (Username)
+  
   Mật khẩu (Password)
+  
   Xác nhận mật khẩu (Confirm Password)
+  
   Email
+  
   Bấm nút Đăng ký:
+  
   Ứng dụng kiểm tra dữ liệu nhập vào:
+  
   Mật khẩu và xác nhận phải trùng khớp.
+  
   Email phải đúng định dạng.
+  
   Xác nhận không phải là người máy
+  
   Xác nhận đồng ý điều khoản
+  
   Username chưa tồn tại trong hệ thống.
+  
   Nếu hợp lệ → hệ thống mã hóa mật khẩu và lưu thông tin vào CSDL.
+  
   Hiện thông báo Đăng ký thành công và trở lại màn hình Đăng nhập.
+  
   Nếu dữ liệu không hợp lệ → hiển thị thông báo lỗi cụ thể.
 
-3. Lưu ý khi sử dụng
-  Tên đăng nhập phải duy nhất, không trùng lặp với tài khoản đã có.
-  Mật khẩu phải đủ mạnh (có thể kết hợp chữ hoa, chữ thường, số, ký tự đặc biệt).
-  Email nhập vào cần đúng định dạng, ví dụ: abc@gmail.com.
-  Nếu ứng dụng báo lỗi kết nối, kiểm tra lại SQL Server và chuỗi kết nối trong code.
+5. Lưu ý khi sử dụng
+ 
+   Tên đăng nhập phải duy nhất, không trùng lặp với tài khoản đã có.
+    
+   Mật khẩu phải đủ mạnh (có thể kết hợp chữ hoa, chữ thường, số, ký tự đặc biệt).
+      
+   Email nhập vào cần đúng định dạng, ví dụ: abc@gmail.com.
+    
+   Nếu ứng dụng báo lỗi kết nối, kiểm tra lại SQL Server và chuỗi kết nối trong code.
 
 **Thành viên:**
 
