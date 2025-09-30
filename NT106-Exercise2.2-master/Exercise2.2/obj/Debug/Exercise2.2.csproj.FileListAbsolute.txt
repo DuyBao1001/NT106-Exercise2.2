@@ -1,0 +1,23 @@
+D:\UIT\Kì 3\NT106\Nhóm\BT_Tuần 3\Exercise2.2\bin\Debug\Exercise2.2.exe.config
+D:\UIT\Kì 3\NT106\Nhóm\BT_Tuần 3\Exercise2.2\bin\Debug\Exercise2.2.exe
+D:\UIT\Kì 3\NT106\Nhóm\BT_Tuần 3\Exercise2.2\bin\Debug\Exercise2.2.pdb
+D:\UIT\Kì 3\NT106\Nhóm\BT_Tuần 3\Exercise2.2\obj\Debug\Exercise2.2.csproj.AssemblyReference.cache
+D:\UIT\Kì 3\NT106\Nhóm\BT_Tuần 3\Exercise2.2\obj\Debug\Exercise2._2.Form1.resources
+D:\UIT\Kì 3\NT106\Nhóm\BT_Tuần 3\Exercise2.2\obj\Debug\Exercise2._2.Form2.resources
+D:\UIT\Kì 3\NT106\Nhóm\BT_Tuần 3\Exercise2.2\obj\Debug\Exercise2._2.Properties.Resources.resources
+D:\UIT\Kì 3\NT106\Nhóm\BT_Tuần 3\Exercise2.2\obj\Debug\Exercise2.2.csproj.GenerateResource.cache
+D:\UIT\Kì 3\NT106\Nhóm\BT_Tuần 3\Exercise2.2\obj\Debug\Exercise2.2.csproj.CoreCompileInputs.cache
+D:\UIT\Kì 3\NT106\Nhóm\BT_Tuần 3\Exercise2.2\obj\Debug\Exercise2.2.exe
+D:\UIT\Kì 3\NT106\Nhóm\BT_Tuần 3\Exercise2.2\obj\Debug\Exercise2.2.pdb
+D:\Download\NT106-Exercise2.2-master\Exercise2.2\bin\Debug\Exercise2.2.exe.config
+D:\Download\NT106-Exercise2.2-master\Exercise2.2\bin\Debug\Exercise2.2.exe
+D:\Download\NT106-Exercise2.2-master\Exercise2.2\bin\Debug\Exercise2.2.pdb
+D:\Download\NT106-Exercise2.2-master\Exercise2.2\obj\Debug\Exercise2.2.csproj.AssemblyReference.cache
+D:\Download\NT106-Exercise2.2-master\Exercise2.2\obj\Debug\Exercise2.2.exe.config
+D:\Download\NT106-Exercise2.2-master\Exercise2.2\obj\Debug\Exercise2._2.Form1.resources
+D:\Download\NT106-Exercise2.2-master\Exercise2.2\obj\Debug\Exercise2._2.Form2.resources
+D:\Download\NT106-Exercise2.2-master\Exercise2.2\obj\Debug\Exercise2._2.Properties.Resources.resources
+D:\Download\NT106-Exercise2.2-master\Exercise2.2\obj\Debug\Exercise2.2.csproj.GenerateResource.cache
+D:\Download\NT106-Exercise2.2-master\Exercise2.2\obj\Debug\Exercise2.2.csproj.CoreCompileInputs.cache
+D:\Download\NT106-Exercise2.2-master\Exercise2.2\obj\Debug\Exercise2.2.exe
+D:\Download\NT106-Exercise2.2-master\Exercise2.2\obj\Debug\Exercise2.2.pdb
